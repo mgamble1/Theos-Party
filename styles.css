@@ -1,0 +1,14 @@
+body{width: 100%;
+    background-color: black;
+color: white;
+font-weight: bolder;
+text-transform: uppercase;
+text-align: center;
+text-shadow: 2px 2px 2px blue;
+font-size: 35px;
+}
+img{height: 400px; ; width: 450px;
+float: left;}
+a{color: white; }
+button{background-color: blue;
+color: white;}
